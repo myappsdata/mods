@@ -1,0 +1,694 @@
+[
+   {
+      "name":"favorite",
+      "display_name":"Favorite",
+      "image": "assets/images/ic_favorite.png",
+      "commands":[]
+   },
+   {
+      "name":"basic",
+      "display_name":"Basic",
+      "image": "assets/images/ic_basic.png",
+      "commands":[
+         "Help",
+         "Mute",
+         "Unmute",
+         "Stop",
+         "Volume up",
+         "Volume down",
+         "Set volume to 5",
+         "Go to sleep"
+      ]
+   },
+   {
+      "name":"talk_to_alexa",
+      "display_name":"Talk To Alexa",
+      "image": "assets/images/ic_talk_to.png",
+      "commands":[]
+   },
+   {
+      "name":"musics",
+      "display_name":"Musics",
+      "image": "assets/images/ic_music.png",
+      "commands":[
+         "Play music",
+         "Sing Auld Lang Syne",
+         "Sing your new Christmas song",
+         "Sing a Christmas carol",
+         "Sing Jingle Bells",
+         "Play music for a Christmas party",
+         "Play family-friendly Christmas music",
+         "Create a new playlist.",
+         "Mute",
+         "Unmute",
+         "Skip this song",
+         "Restart this song",
+         "Turn shuffle on",
+         "Turn repeat on",
+         "Loop this playlist",
+         "Turn shuffle off",
+         "Turn repeat off"
+      ]
+   },
+   {
+      "name":"spotify",
+      "display_name":"Spotify",
+      "image": "assets/images/ic_spotify.png",
+      "commands":[
+         "Volume up",
+         "Volume down",
+         "Stop",
+         "Resume",
+         "Next",
+         "Play last song",
+         "Play favorite playlist on Spotify",
+         "What song is this?",
+         "What was the last song called?",
+         "Tell me more about this artist",
+         "Add this song to my playlist",
+         "Play some romantic music on Spotify",
+         "Play some happy music on Spotify",
+         "Play some sad music on Spotify",
+         "Play some cooking music on Spotify",
+         "Play my music from Eminem on Spotify",
+         "Play my music from Alan Walker on Spotify",
+         "Play my music from Rihanna on Spotify",
+         "Play my music from Taylor Swift on Spotify",
+         "Play my music from Beyonce on Spotify",
+         "Play Christmas music on Spotify",
+         "Play music for Thanksgiving on Spotify",
+         "Play music for holiday on Spotify"
+      ]
+   },
+   {
+      "name":"alarms",
+      "display_name":"Alarms",
+      "image": "assets/images/ic_alarm.png",
+      "commands":[
+         "Snooze",
+         "When\\'s my next alarm?",
+         "What are my timers?",
+         "Cancel all alarms",
+         "Cancel my alarm",
+         "Set a timer for 30 minutes",
+         "Set an alarm for 7 A.M",
+         "Set a second timer for 10 minutes"
+      ]
+   },
+   {
+      "name":"animals",
+      "display_name":"Animals",
+      "image": "assets/images/ic_animal.png",
+      "commands":[]
+   },
+   {
+      "name":"calendar",
+      "display_name":"Calendar",
+      "image": "assets/images/ic_calendar.png",
+      "commands":[
+         "What time is it?",
+         "What\\'s the date?",
+         "Add an event to my calendar",
+         "What\\'s on my calendar for today?"
+      ]
+   },
+   {
+      "name":"announce",
+      "display_name":"Announce",
+      "image": "assets/images/ic_announce.png",
+      "commands":[]
+   },
+   {
+      "name":"local_and_traffic",
+      "display_name":"Local & Traffic",
+      "image": "assets/images/ic_location.png",
+      "commands":[
+         "What\\'s the weather like?",
+         "Will it rain today?",
+         "What will the weather be like tomorrow?",
+         "What\\'s in the news?",
+         "What\\'s the traffic like?",
+         "What time is it?",
+         "What will the weather be like this weekend?"
+      ]
+   },
+   {
+      "name":"artificial_intelligence",
+      "display_name":"Artificial Intelligence",
+      "image": "assets/images/ic_artificial.png",
+      "commands":[]
+   },
+   {
+      "name":"bluetooth",
+      "display_name":"Bluetooth",
+      "image": "assets/images/ic_bluetooth.png",
+      "commands":[
+         "Connect to my phone",
+         "Disconnect from my phone",
+         "Connect to my speaker",
+         "Disconnect from my speaker"
+      ]
+   },
+   {
+      "name":"call_and_messages",
+      "display_name":"Call & Messages",
+      "image": "assets/images/ic_call.png",
+      "commands":[
+         "Make a call for me",
+         "Answer the call",
+         "Hang up",
+         "End the call",
+         "Play messages"
+      ]
+   },
+   {
+      "name":"show_commands",
+      "display_name":"Show",
+      "image": "assets/images/ic_show.png",
+      "commands":[
+         "Show my calendar",
+         "Show my photos",
+         "Show me movie showtimes",
+         "Show me the weekend forecast",
+         "Show me my timers"
+      ]
+   },
+   {
+      "name":"notifications",
+      "display_name":"Notifications",
+      "image": "assets/images/ic_notification.png",
+      "commands":[
+         "What did I miss?",
+         "Delete all of my notifications"
+      ]
+   },
+   {
+      "name":"holidays",
+      "display_name":"Holidays",
+      "image": "assets/images/ic_holiday.png",
+      "commands":[
+         "What\\'s your favorite holiday movie?",
+         "What are the top holiday movies?"
+      ]
+   },
+   {
+      "name":"books",
+      "display_name":"Books",
+      "image": "assets/images/ic_book.png",
+      "commands":[]
+   },
+   {
+      "name":"cartoons",
+      "display_name":"Cartoons",
+      "image": "assets/images/ic_cartoon.png",
+      "commands":[]
+   },
+   {
+      "name":"animes",
+      "display_name":"Animes",
+      "image": "assets/images/ic_anime.png",
+      "commands":[]
+   },
+   {
+      "name":"smart_home",
+      "display_name":"Smart Home",
+      "image": "assets/images/ic_smart_home.png",
+      "commands":[
+         "Bedtime",
+         "Discover my devices",
+         "Dim the lights to 50%",
+         "Set the temperature to 21 degrees",
+         "Turn off the living room lights.",
+         "Turn the lights to soft white.",
+         "Make the kitchen lights a little warmer",
+         "Raise the temperature 1 degree.",
+         "Lock my back door.",
+         "Discover my devices",
+         "Turn on Netflix",
+         "Runaway mode",
+         "Turn lights off",
+         "Turn lights out",
+         "Lock the front door",
+         "Turn on the tv",
+         "Turn off the tv",
+         "Show me camera"
+      ]
+   },
+   {
+      "name":"eq_control",
+      "display_name":"EQ control",
+      "image": "assets/images/ic_eq_control.png",
+      "commands":[
+         "Set the treble to three",
+         "Set night mode",
+         "Increase bass",
+         "Decrease treble",
+         "Increase bass in the living room",
+         "Set night mode on bedroom tv",
+         "Set movie mode",
+         "Set bass to two on the soundbar"
+      ]
+   },
+   {
+      "name":"family",
+      "display_name":"Family & Friend",
+      "image": "assets/images/ic_family_friends.png",
+      "commands":[
+         "Send a hug",
+         "Call my dad",
+         "Call my mom",
+         "Call my brother",
+         "Call my sister",
+         "Call my husband",
+         "Call my wife",
+         "Call my son",
+         "Call my daughter",
+         "Call my boyfriend",
+         "Call my girlfriend",
+         "Call my grandpa",
+         "Call my grandma"
+      ]
+   },
+   {
+      "name":"recipe",
+      "display_name":"Recipe & Nutrition",
+      "image": "assets/images/ic_nutrition.png",
+      "commands":[
+         "Give me nutrition tip",
+         "Show me recipes"
+      ]
+   },
+   {
+      "name":"donation",
+      "display_name":"Make a donation",
+      "image": "assets/images/ic_donation.png",
+      "commands":[
+         "Make a donation",
+         "Make a donation to the American childhood cancer organization",
+         "Make a donation to anime for humanity",
+         "Make a donation to cancer research institute inc.",
+         "Make a donation to love justice international",
+         "Make a donation to the 1,000 dreams fund",
+         "Make a donation to 1 up on cancer",
+         "Make a donation to 30 for the kids inc.",
+         "Make a donation to 93 q cure kids cancer radiothon at children\\'s miracle network",
+         "Make a donation to a kid again",
+         "Make a donation to a stage reborn",
+         "Make a donation to the aids foundation of Chicago",
+         "Make a donation to action against hunger USA",
+         "Make a donation to the African wildlife foundation",
+         "Lemonade stand foundation Alexa, make a donation to Alex\\'s lemonade stand foundation",
+         "Make a donation to all in Washington",
+         "Make a donation to almond tv",
+         "Make a donation to amazon home town heroes and why not your foundation",
+         "Make a donation to the American cancer society",
+         "Make a donation to the American Foundation for Surgery of the hand",
+         "Make a donation to the American heart association"
+      ]
+   },
+   {
+      "name":"shopping",
+      "display_name":"Shopping",
+      "image": "assets/images/ic_shopping.png",
+      "commands":[
+         "What\\'s on my shopping list?",
+         "Where\\'s my stuff?"
+      ]
+   },
+   {
+      "name":"christmas",
+      "display_name":"Christmas",
+      "image": "assets/images/ic_christmas.png",
+      "commands":[
+         "What\\'s today\\'s Christmas treat?",
+         "Do you want to build a snowman?",
+         "Open the advent calendar",
+         "Sing a Christmas carol",
+         "Sing your new Christmas song",
+         "What is the true meaning of Christmas?",
+         "Who is your favorite reindeer?",
+         "Is Santa Claus real?",
+         "Where does Father Christmas live?"
+      ]
+   },
+   {
+      "name":"echo_show",
+      "display_name":"Echo Show",
+      "image": "assets/images/img_echo_dot.png",
+      "commands":[
+         "What can you show me?",
+         "Show my calendar",
+         "Show my photos",
+         "Show the living room camera",
+         "Show me a movie showtimes.",
+         "Show me the weekend forecast",
+         "Show me travel videos on Youtube",
+         "Show me a recipe from Allrecipes",
+         "Play my video",
+         "Show me my timers",
+         "Open Uber."
+      ]
+   },
+   {
+      "name":"remote",
+      "display_name":"Remote for Fire TV",
+      "image": "assets/images/ic_remote.png",
+      "commands":[
+         "Turn on Fire TV",
+         "Turn off Fire TV.",
+         "Pause on Fire TV",
+         "Play on Fire TV",
+         "Resume on Fire TV",
+         "Stop on Fire TV",
+         "Fast-forward to Fire TV",
+         "Rewind on Fire TV",
+         "Switch to PlayStation on Fire TV",
+         "Switch to HDMI 1 on Fire TV",
+         "Open TV guide on Fire TV"
+      ]
+   },
+   {
+      "name":"food",
+      "display_name":"Food and businesses",
+      "image": "assets/images/ic_food.png",
+      "commands":[
+         "How do you make chocolate chip cookies?",
+         "Find me a nearby pizza restaurant Alexa, what\\'s the nearest coffee shop?",
+         "What\\'s the nearest coffee shop?"
+      ]
+   },
+   {
+      "name":"settle",
+      "display_name":"Settle a score",
+      "image": "assets/images/ic_settle.png",
+      "commands":[
+         "Roll a die",
+         "Roll a 26 sided die",
+         "Flip a coin",
+         "Pick a number between 1 and 50."
+      ]
+   },
+   {
+      "name":"skills",
+      "display_name":"Skills",
+      "image": "assets/images/ic_skills.png",
+      "commands":[
+         "Open airplay.",
+         "What kid\\'s skills do you have?",
+         "Enable jeopardy!",
+         "Disable dominoes.",
+         "Open the bartender."
+      ]
+   },
+   {
+      "name":"ring",
+      "display_name":"Ring",
+      "image": "assets/images/ic_music.png",
+      "commands":[
+         "Fast forward.",
+         "Fast forward 10 seconds.",
+         "Fast forward 1 minute.",
+         "Rewind.",
+         "Rewind 10 seconds.",
+         "Rewind 1 minute.",
+         "Pause.",
+         "Play."
+      ]
+   },
+   {
+      "name":"big_bang_theory",
+      "display_name":"Big Bang Theory",
+      "image": "assets/images/ic_theory.png",
+      "commands":[]
+   },
+   {
+      "name":"british_bake_off",
+      "display_name":"British Bake Off",
+      "image": "assets/images/ic_bake.png",
+      "commands":[]
+   },
+   {
+      "name":"comedy",
+      "display_name":"Comedy",
+      "image": "assets/images/ic_comedy.png",
+      "commands":[]
+   },
+   {
+      "name":"conversions",
+      "display_name":"Conversions",
+      "image": "assets/images/ic_conversion.png",
+      "commands":[]
+   },
+   {
+      "name":"cooking",
+      "display_name":"Cooking",
+      "image": "assets/images/ic_cook.png",
+      "commands":[]
+   },
+   {
+      "name":"day_to_day_life",
+      "display_name":"Day to Day life",
+      "image": "assets/images/ic_day_to.png",
+      "commands":[]
+   },
+   {
+      "name":"facts",
+      "display_name":"Facts",
+      "image": "assets/images/ic_fact.png",
+      "commands":[]
+   },
+   {
+      "name":"game",
+      "display_name":"Game",
+      "image": "assets/images/ic_game.png",
+      "commands":[]
+   },
+   {
+      "name":"gardening",
+      "display_name":"Gardening",
+      "image": "assets/images/ic_gardening.png",
+      "commands":[]
+   },
+   {
+      "name":"geography",
+      "display_name":"Geography",
+      "image": "assets/images/ic_geography.png",
+      "commands":[]
+   },
+   {
+      "name":"fashion",
+      "display_name":"Fashion",
+      "image": "assets/images/ic_fashion.png",
+      "commands":[]
+   },
+   {
+      "name":"halloween",
+      "display_name":"Halloween",
+      "image": "assets/images/ic_halloween.png",
+      "commands":[]
+   },
+   {
+      "name":"history",
+      "display_name":"History",
+      "image": "assets/images/ic_history.png",
+      "commands":[]
+   },
+   {
+      "name":"holiday_greetings",
+      "display_name":"Holiday Greetings",
+      "image": "assets/images/ic_holiday.png",
+      "commands":[]
+   },
+   {
+      "name":"how_long_to",
+      "display_name":"How long to?",
+      "image": "assets/images/ic_how_long.png",
+      "commands":[]
+   },
+   {
+      "name":"human_body",
+      "display_name":"Human Body",
+      "image": "assets/images/ic_human.png",
+      "commands":[]
+   },
+   {
+      "name":"humor",
+      "display_name":"Humor",
+      "image": "assets/images/ic_humor.png",
+      "commands":[]
+   },
+   {
+      "name":"impersonations",
+      "display_name":"Impersonations",
+      "image": "assets/images/ic_impersonations.png",
+      "commands":[]
+   },
+   {
+      "name":"jokes",
+      "display_name":"Jokes",
+      "image": "assets/images/ic_jokes.png",
+      "commands":[]
+   },
+   {
+      "name":"languages",
+      "display_name":"Languages",
+      "image": "assets/images/ic_language.png",
+      "commands":[]
+   },
+   {
+      "name":"love_dating",
+      "display_name":"Love & Dating",
+      "image": "assets/images/ic_love.png",
+      "commands":[]
+   },
+   {
+      "name":"maths",
+      "display_name":"Maths",
+      "image": "assets/images/ic_math.png",
+      "commands":[]
+   },
+   {
+      "name":"money",
+      "display_name":"Money",
+      "image": "assets/images/ic_money.png",
+      "commands":[]
+   },
+   {
+      "name":"podcasts",
+      "display_name":"Podcasts",
+      "image": "assets/images/ic_podcasts.png",
+      "commands":[]
+   },
+   {
+      "name":"radio",
+      "display_name":"Radio",
+      "image": "assets/images/ic_radio.png",
+      "commands":[]
+   },
+   {
+      "name":"relax",
+      "display_name":"Relax",
+      "image": "assets/images/ic_relax.png",
+      "commands":[]
+   },
+   {
+      "name":"science",
+      "display_name":"Science",
+      "image": "assets/images/ic_science.png",
+      "commands":[]
+   },
+   {
+      "name":"space",
+      "display_name":"Space",
+      "image": "assets/images/ic_space.png",
+      "commands":[]
+   },
+   {
+      "name":"sports",
+      "display_name":"Sports",
+      "image": "assets/images/ic_sport.png",
+      "commands":[]
+   },
+   {
+      "name":"star_trek",
+      "display_name":"Star Trek",
+      "image": "assets/images/ic_star_trek.png",
+      "commands":[]
+   },
+   {
+      "name":"star_wars",
+      "display_name":"Star wars",
+      "image": "assets/images/ic_star_war.png",
+      "commands":[]
+   },
+   {
+      "name":"supper_heroes",
+      "display_name":"Supper heroes",
+      "image": "assets/images/ic_supper_hero.png",
+      "commands":[]
+   },
+   {
+      "name":"timezones",
+      "display_name":"Timezones",
+      "image": "assets/images/ic_timezone.png",
+      "commands":[]
+   },
+   {
+      "name":"tips",
+      "display_name":"Tips",
+      "image": "assets/images/ic_tips.png",
+      "commands":[]
+   },
+   {
+      "name":"travel",
+      "display_name":"travel",
+      "image": "assets/images/ic_travel.png",
+      "commands":[]
+   },
+   {
+      "name":"translate",
+      "display_name":"Translate",
+      "image": "assets/images/ic_translate.png",
+      "commands":[]
+   },
+   {
+      "name":"tv",
+      "display_name":"TV",
+      "image": "assets/images/ic_tv.png",
+      "commands":[]
+   },
+   {
+      "name":"weather",
+      "display_name":"Weather",
+      "image": "assets/images/ic_weather.png",
+      "commands":[]
+   },
+   {
+      "name":"wedding_anniversaries",
+      "display_name":"Wedding Anniversaries",
+      "image": "assets/images/ic_wedding.png",
+      "commands":[]
+   },
+   {
+      "name":"wold_population",
+      "display_name":"Wold population",
+      "image": "assets/images/ic_population.png",
+      "commands":[]
+   },
+   {
+      "name":"irobot",
+      "display_name":"iRobot",
+      "image": "assets/images/ic_irobot.png",
+      "commands":[
+         "Ask Roomba to start vacuuming",
+         "Ask Braava to start mopping",
+         "Ask Roomba to clean",
+         "Ask Roomba to start vacuuming",
+         "Tell Braava to stop sweeping",
+         "Tell Roomba to pause vacuuming",
+         "Ask Braava to resume mopping",
+         "Tell Roomba to go home",
+         "Tell Roomba to go recharge",
+         "Tell iRobot to return to its dock",
+         "Ask Roomba where it is",
+         "Ask Braava to sing for me",
+         "Tell Roomba I found it",
+         "Tell Roomba to be quiet",
+         "Ask Roomba what it\\'s doing",
+         "Ask Braava if it\\'s done yet",
+         "Ask Roomba to schedule vacuuming",
+         "Tell Roomba to schedule cleaning on Monday at 10 AM",
+         "Ask Braava to schedule mopping in the morning",
+         "Tell Roomba to list my cleaning schedule",
+         "Tell Roomba to cancel vacuuming on Tuesdays",
+         "Ask Roomba to vacuum the master bedroom",
+         "Ask Braava to mop my kitchen",
+         "Tell Roomba there is a mess in the kitchen and living room",
+         "Tell Roomba to vacuum and Braava to mop the kitchen",
+         "Tell Roomba to start Rosie in the living room and Bob in the kitchen",
+         "Tell Roomba to vacuum in front of the couch",
+         "Tell iRobot to clean the dinnertime favorite",
+         "Ask Roomba to schedule vacuuming in the dining room on Tuesdays"
+      ]
+   }
+]
